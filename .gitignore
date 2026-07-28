@@ -1,0 +1,12 @@
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+backend/.venv/
+backend/.pytest_cache/
+backend/.ruff_cache/
+backend/distil.db
+backend/artifacts/
+__pycache__/
+sdk/.venv/
+sdk/.ruff_cache/
+.DS_Store
